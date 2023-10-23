@@ -1,0 +1,56 @@
+[
+   {
+      "id": 1,
+      "name": "Rock",
+      "song": [
+         {
+            "id": 1,
+            "name": "Paint my love",
+            "duration": 180,
+            "genre": "Pop"
+         },
+         {
+            "id": 2,
+            "name": "Songs Rock",
+            "duration": 120,
+            "genre": "Rock"
+         },
+         {
+            "id": 3,
+            "name": "Pop Songs",
+            "duration": 100,
+            "genre": "Pop"
+         },
+         {
+            "id": 4,
+            "name": "Pop Songs",
+            "duration": 100,
+            "genre": "Pop"
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "name": "anjay wibu",
+      "song": [
+         {
+            "id": 1,
+            "name": "kimi no nawa ",
+            "duration": 140,
+            "genre": "Pop"
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "name": "anjay wibu nolep ",
+      "song": [
+         {
+            "id": 1,
+            "name": "kimi gayo ",
+            "duration": 140,
+            "genre": "Pop"
+         }
+      ]
+   }
+]
